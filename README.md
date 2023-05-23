@@ -1,0 +1,2 @@
+# django_test_by_Arman_Terlikov
+django_test
